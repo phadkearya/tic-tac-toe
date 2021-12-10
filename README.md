@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-tac-toe
 Tic Tac Toe game in python
 
 This was written by me as a part of my System Software Lab Course.
